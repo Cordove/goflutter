@@ -28,4 +28,7 @@
 要使用 ChatGPT API 免费版，只需向以下端点发送 POST 请求：
 
 ```raw
-https://ch
+https://chatgpt-api.shn.hk/v1/
+```
+
+例如，要使用 `gpt-3.5-turbo` 模型回答 "Hello,
