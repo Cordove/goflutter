@@ -42,4 +42,6 @@ curl https://chatgpt-api.shn.hk/v1/ \
 }'
 ```
 
-您可以在 [OpenAI 官方文档](https://pl
+您可以在 [OpenAI 官方文档](https://platform.openai.com/docs/api-reference/chat/create)上阅读完整的 API 文档。
+
+## 介绍
