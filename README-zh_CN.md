@@ -31,4 +31,7 @@
 https://chatgpt-api.shn.hk/v1/
 ```
 
-例如，要使用 `gpt-3.5-turbo` 模型回答 "Hello,
+例如，要使用 `gpt-3.5-turbo` 模型回答 "Hello, how are you?"，请发送以下 `curl` 命令：
+
+```sh
+curl https://chatgpt-api.shn.hk/v1
