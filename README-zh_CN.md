@@ -38,4 +38,8 @@ curl https://chatgpt-api.shn.hk/v1/ \
   -H 'Content-Type: application/json' \
   -d '{
   "model": "gpt-3.5-turbo",
-  "message
+  "messages": [{"role": "user", "content": "Hello, how are you?"}]
+}'
+```
+
+您可以在 [OpenAI 官方文档](https://pl
