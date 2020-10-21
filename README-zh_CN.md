@@ -45,3 +45,5 @@ curl https://chatgpt-api.shn.hk/v1/ \
 您可以在 [OpenAI 官方文档](https://platform.openai.com/docs/api-reference/chat/create)上阅读完整的 API 文档。
 
 ## 介绍
+
+ChatGPT 是由 OpenAI 开发的全球知名的会话 AI 模型，因生成类似人类的对各种提示和查询的回答而广受赞誉。凭借其先进的功
