@@ -48,4 +48,6 @@ curl https://chatgpt-api.shn.hk/v1/ \
 
 ChatGPT 是由 OpenAI 开发的全球知名的会话 AI 模型，因生成类似人类的对各种提示和查询的回答而广受赞誉。凭借其先进的功能，ChatGPT 是聊天机器人、虚拟助手和其他自然语言处理应用程序的宝贵资产。
 
-ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集成到自己的应用程序中。但是，要使用此 API，用户需要拥有 OpenAI API 密钥并支付使
+ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集成到自己的应用程序中。但是，要使用此 API，用户需要拥有 OpenAI API 密钥并支付使用费用。
+
+免费 ChatGPT API 认为每个人都应该拥有访问最新人工智能技术的权利，而不必承担获取 API 密钥的经济负担。此开
