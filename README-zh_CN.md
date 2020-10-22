@@ -52,4 +52,6 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
 
 免费 ChatGPT API 认为每个人都应该拥有访问最新人工智能技术的权利，而不必承担获取 API 密钥的经济负担。此开源代理 API 允许您在没有密钥的情况下访问 ChatGPT API，促进了对所有人的可访问性和创新。
 
-## 免费 ChatGPT API
+## 免费 ChatGPT API 做什么？
+
+这个简单的代理 API 充当您与 OpenAI ChatGPT API 之间的桥梁。您可以使用与原始 API 相同的格式向 Ch
