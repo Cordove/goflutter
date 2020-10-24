@@ -54,4 +54,4 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
 
 ## 免费 ChatGPT API 做什么？
 
-这个简单的代理 API 充当您与 OpenAI ChatGPT API 之间的桥梁。您可以使用与原始 API 相同的格式向 Ch
+这个简单的代理 API 充当您与 OpenAI ChatGPT API 之间的桥梁。您可以使用与原始 API 相同的格式向 ChatGPT API 免费版端点发送请求。该代理 API 将请求转发至 OpenAI API，使用该项目提供的 API 密钥，
