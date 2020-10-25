@@ -60,4 +60,8 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
 
 免费 ChatGPT API 项目是人工智能开发社区的游戏规则改变者。通过代理 API，任何人都可以无需密钥访问最先进的 ChatGPT 模型。这种可访问性促进了开发人员之间的创造力、创新和合作，并可能导致人工智能技术的突破性进展。
 
-此外，诸如 [Free ChatGPT](https://freechatgpt.chat/) 之类的成
+此外，诸如 [Free ChatGPT](https://freechatgpt.chat/) 之类的成功项目建立在此 API 的基础上，显示了该项目的巨大潜力。
+
+## 隐私声明
+
+该项目高度重视隐私，致力于保护其用户的隐私。该项目不会以
