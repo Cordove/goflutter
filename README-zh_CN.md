@@ -66,4 +66,10 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
 
 该项目高度重视隐私，致力于保护其用户的隐私。该项目不会以任何方式收集、记录或存储用户输入的任何文本或由 OpenAI 服务器返回的任何文本。该项目不会向 OpenAI 或任何第三方提供有关 API 调用者的身份的任何信息，包括但不限于 IP 地址和用户代理字符串。该项目的源代码可供检查，以验证此声明。
 
-然而，OpenAI API 根据其[数据使用政策](https://platform.openai.com/docs/data-usage-policies)保
+然而，OpenAI API 根据其[数据使用政策](https://platform.openai.com/docs/data-usage-policies)保留 30 天的数据。
+
+## 搭建自己的实例
+
+如果您想运行自己的 ChatGPT API 免费版实例，可以按照以下步骤轻松完成：
+
+1. 从 [OpenAI API 密钥](http
