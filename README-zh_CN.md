@@ -73,4 +73,6 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
 如果您想运行自己的 ChatGPT API 免费版实例，可以按照以下步骤轻松完成：
 
 1. 从 [OpenAI API 密钥](https://platform.openai.com/account/api-keys)获取 OpenAI API 密钥。
-1. 在 GitHub 上 
+1. 在 GitHub 上 Star 和 Fork 此存储库。
+1. 正确配置您的[环境变量](.env.example)。
+1. 在本地部署 Docker 或在 [Goog
