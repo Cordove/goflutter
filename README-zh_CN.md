@@ -76,4 +76,8 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
 1. 在 GitHub 上 Star 和 Fork 此存储库。
 1. 正确配置您的[环境变量](.env.example)。
 1. 在本地部署 Docker 或在 [Google Cloud Run](https://cloud.google.com/run) 上部署。
-1. 在本地设置速率限制或使用 [Google Cloud Armo
+1. 在本地设置速率限制或使用 [Google Cloud Armor](https://cloud.google.com/armor/docs/rate-limiting-overview)。
+
+## 改进此项目
+
+该项目始终
