@@ -86,4 +86,7 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
 
 如果您发现免费 ChatGPT API 版有用，请考虑在 GitHub 上[赞助作者](https://github.com/sponsors/ayaka14732)，以支持持续的开发和维护。您的支持将帮助她维护此项目，并继续使人工智能技术对所有人都可访问。谢谢您的支持！
 
-<tab
+<table>
+  <tr>
+    <th>Ko-fi</th>
+    <td><a href="https://ko-fi.com/free
