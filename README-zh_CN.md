@@ -82,4 +82,6 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
 
 该项目始终在寻找改进的方法，欢迎用户提供反馈和贡献。如果您有任何建议或想法，请随时在 GitHub 存储库中创建 Issue 或提交拉取请求。
 
-#
+## 赞助我！
+
+如果您发现免费 ChatGPT API 版有用，请考虑在 GitHub 上[赞助作者](https://github.c
