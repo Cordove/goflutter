@@ -93,4 +93,8 @@ ChatGPT API 是一个强大的工具，允许开发人员将 ChatGPT 模型集�
   </tr>
   <tr>
     <th>支付宝</th>
-    <td><img src="https://ayaka14732.github.io/sponsor/alipay.jpg" alt="支付宝" width="
+    <td><img src="https://ayaka14732.github.io/sponsor/alipay.jpg" alt="支付宝" width="150"></td>
+  </tr>
+  <tr>
+    <th>微信</th>
+    <td><img src="https://a
