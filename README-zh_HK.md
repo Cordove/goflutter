@@ -52,3 +52,52 @@ ChatGPT 是由 OpenAI 開發的全球知名的會話 AI 模型，因生成類似
 ChatGPT API 是一個強大的工具，允許開發人員將 ChatGPT 模型集成到自己的應用程式中。但是，要使用此 API，用户需要擁有 OpenAI API 金鑰並支付使用費用。
 
 免費 ChatGPT API 認為每個人都應該擁有訪問最新人工智能技術的權利，而不必承擔獲取 API 金鑰的經濟負擔。此開源代理 API 允許您在沒有金鑰的情況下訪問 ChatGPT API，促進了對所有人的可訪問性和創新。
+
+## 免費 ChatGPT API 做什麼？
+
+這個簡單的代理 API 充當您與 OpenAI ChatGPT API 之間的橋樑。您可以使用與原始 API 相同的格式向 ChatGPT API 免費版端點傳送要求。該代理 API 將要求轉發至 OpenAI API，使用該專案提供的 API 金鑰，並將 OpenAI API 的應答回傳給您。
+
+## 重要性
+
+免費 ChatGPT API 專案是人工智能開發社羣的遊戲規則改變者。透過代理 API，任何人都可以無需金鑰訪問最先進的 ChatGPT 模型。這種可訪問性促進了開發人員之間的創造力、創新和合作，並可能導致人工智能技術的突破性進展。
+
+此外，諸如 [Free ChatGPT](https://freechatgpt.chat/) 之類的成功專案建立在此 API 的基礎上，顯示了該專案的巨大潛力。
+
+## 私隱聲明
+
+該專案高度重視私隱，致力於保護其用户的私隱。該專案不會以任何方式收集、記錄或存儲用户輸入的任何文本或由 OpenAI 伺服器回傳的任何文本。該專案不會向 OpenAI 或任何第三方提供有關 API 呼叫者的身分的任何信息，包括但不限於 IP 位址和用户代理字串。該專案的原始碼可供檢查，以驗證此聲明。
+
+然而，OpenAI API 根據其[資料使用政策](https://platform.openai.com/docs/data-usage-policies)保留 30 天的資料。
+
+## 搭建自己的實例
+
+如果您想運行自己的 ChatGPT API 免費版實例，可以按照以下步驟輕鬆完成：
+
+1. 從 [OpenAI API 金鑰](https://platform.openai.com/account/api-keys)獲取 OpenAI API 金鑰。
+1. 在 GitHub 上 Star 和 Fork 此存儲庫。
+1. 正確配置您的[環境變數](.env.example)。
+1. 在本地部署 Docker 或在 [Google Cloud Run](https://cloud.google.com/run) 上部署。
+1. 在本地設定速率限制或使用 [Google Cloud Armor](https://cloud.google.com/armor/docs/rate-limiting-overview)。
+
+## 改進此專案
+
+該專案始終在尋找改進的方法，歡迎用户提供反饋和貢獻。如果您有任何建議或想法，請隨時在 GitHub 存儲庫中建立 Issue 或提交拉取請求。
+
+## 贊助我！
+
+如果您發現免費 ChatGPT API 版有用，請考慮在 GitHub 上[贊助作者](https://github.com/sponsors/ayaka14732)，以支持持續的開發和維護。您的支持將幫助她維護此專案，並繼續使人工智能技術對所有人都可訪問。謝謝您的支持！
+
+<table>
+  <tr>
+    <th>Ko-fi</th>
+    <td><a href="https://ko-fi.com/freechatgpt"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"></a></td>
+  </tr>
+  <tr>
+    <th>支付寶</th>
+    <td><img src="https://ayaka14732.github.io/sponsor/alipay.jpg" alt="支付寶" width="150"></td>
+  </tr>
+  <tr>
+    <th>微信</th>
+    <td><img src="https://ayaka14732.github.io/sponsor/wechat.png" alt="微信" width="150"></td>
+  </tr>
+</table>
