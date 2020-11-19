@@ -95,3 +95,11 @@ If you find ChatGPT API Free useful, please consider [sponsoring the author](htt
     <td><a href="https://ko-fi.com/freechatgpt"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"></a></td>
   </tr>
   <tr>
+    <th>Alipay</th>
+    <td><img src="https://ayaka14732.github.io/sponsor/alipay.jpg" alt="Alipay" width="150"></td>
+  </tr>
+  <tr>
+    <th>WeChat</th>
+    <td><img src="https://ayaka14732.github.io/sponsor/wechat.png" alt="WeChat" width="150"></td>
+  </tr>
+</table>
